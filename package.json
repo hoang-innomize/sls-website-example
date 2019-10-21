@@ -1,0 +1,16 @@
+{
+  "name": "sls-website-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "serverless.js",
+  "dependencies": {
+    "@serverless/core": "^1.1.1",
+    "@serverless/template": "^1.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hoang Le <hoang@innomizetech.com>",
+  "license": "MIT"
+}
